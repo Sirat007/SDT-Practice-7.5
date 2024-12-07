@@ -1,0 +1,21 @@
+.main-border{
+    border-radius: 5px !important;
+}
+
+.main-container{
+    display: flex;
+    
+}
+.food-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 15px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+
+}
+.card{
+    border: 1px solid gray;
+}
